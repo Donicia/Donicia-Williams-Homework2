@@ -2,7 +2,7 @@
 
 Hello,
 
-This was the hardest assignment ever! I only completed the "Easy" task and I am still concerned about it's accuracy. VBA Script is a very helpful tool to learn because most business use Excel to work with data from itnernal sources.
+This was the hardest assignment ever! I only completed the "Easy" task and I am still concerned about it's accuracy. VBA Script is a very helpful tool to learn because most busineses use Excel to work with data from itnernal sources.
 
 
 
